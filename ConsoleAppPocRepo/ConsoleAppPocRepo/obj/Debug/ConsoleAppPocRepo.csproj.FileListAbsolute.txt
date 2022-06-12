@@ -1,0 +1,7 @@
+C:\temp\repomirror\ConsoleAppPocRepo\ConsoleAppPocRepo\bin\Debug\ConsoleAppPocRepo.exe.config
+C:\temp\repomirror\ConsoleAppPocRepo\ConsoleAppPocRepo\bin\Debug\ConsoleAppPocRepo.exe
+C:\temp\repomirror\ConsoleAppPocRepo\ConsoleAppPocRepo\bin\Debug\ConsoleAppPocRepo.pdb
+C:\temp\repomirror\ConsoleAppPocRepo\ConsoleAppPocRepo\obj\Debug\ConsoleAppPocRepo.csproj.AssemblyReference.cache
+C:\temp\repomirror\ConsoleAppPocRepo\ConsoleAppPocRepo\obj\Debug\ConsoleAppPocRepo.csproj.CoreCompileInputs.cache
+C:\temp\repomirror\ConsoleAppPocRepo\ConsoleAppPocRepo\obj\Debug\ConsoleAppPocRepo.exe
+C:\temp\repomirror\ConsoleAppPocRepo\ConsoleAppPocRepo\obj\Debug\ConsoleAppPocRepo.pdb
