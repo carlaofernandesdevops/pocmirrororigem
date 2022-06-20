@@ -11,7 +11,7 @@ namespace ConsoleAppPocRepo
         static void Main(string[] args)
         {
             Console.WriteLine("Teste Espelhamento de Dados");
-            Console.WriteLine("Teste Dados modificados erro compilacao 07h50);
+            Console.WriteLine("Teste Dados modificados erro compilacao 10h46");
             Console.ReadLine();
         }
     }
